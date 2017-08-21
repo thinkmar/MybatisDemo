@@ -1,5 +1,4 @@
-# Mybatis例子
-# 建表语句
+## mysql建表语句
 ```sql
 CREATE TABLE `command` (
   `ID` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键',
